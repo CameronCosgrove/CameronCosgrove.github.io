@@ -24,7 +24,7 @@ description: A collection of my work and ideas
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
-  Blog: "/blog/index2.html"
+  Blog: "blog/index2.html"
   About Me: "aboutme"
   Publications: "publications"
   
