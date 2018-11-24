@@ -44,13 +44,13 @@ avatar: "/img/internet.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#8C3F30C2"
+navbar-col: "#94618E"
 navbar-text-col: "#FFFFFF"
-navbar-children-col: "#C5D6A9"
-page-col: "#C5D6A9"
+navbar-children-col: "#49274A"
+page-col: "#F8EEE7"
 link-col: "#8C3F30C2"
 hover-col: "#8C3F30C2"
-footer-col: "#6E8B3D"
+footer-col: "#F4DECB"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -97,7 +97,7 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
-  researchgate: true
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
