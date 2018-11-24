@@ -24,8 +24,10 @@ description: A collection of my work and ideas
 # List of links in the navigation bar
 navbar-links:
   Home: "index.html"
+  Blog: "blog/index2.html"
   About Me: "aboutme"
   Publications:
+  
   Other:
     - Website credit: "credit"
   Resources:
@@ -230,6 +232,9 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  
+#Stuff for moving blog post
+paginate_path: "/blog/page:num/"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
