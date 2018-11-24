@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-bigimg: "img/internet.png"
+bigimg: "img/plane.png"
 subtitle: Summary of my skills
 ---
 
