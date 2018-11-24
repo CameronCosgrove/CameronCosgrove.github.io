@@ -30,7 +30,7 @@ navbar-links:
   Other:
     - Website credit: "credit"
   Resources:
-    - Google: "http://google.com"
+    - Coding Club: "https://ourcodingclub.github.io/"
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -76,6 +76,7 @@ social-network-links:
   rss: true
   email: "cameron.cosgrove96@gmail.com"
   github: CameronCosgrove
+  researchgate: Cameron_Cosgrove
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -96,6 +97,7 @@ share-links-active:
   facebook: true
   google: false
   linkedin: true
+  researchgate: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
