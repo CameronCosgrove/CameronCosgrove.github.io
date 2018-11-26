@@ -23,12 +23,16 @@ description: A collection of my work and ideas
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index.html"
+  CV: "CV"
   Projects:
     - Mollusc of The Glen: "Mollusc of The Glen"
     - Red Panda Forest Loss: "http://wwf.panda.org/knowledge_hub/teacher_resources/best_place_species/current_top_10/red_panda.cfm"
     - Europarc Youth Manifesto: "https://www.europarc.org/nature/young-people/youth/"
   Publications: "publications"
+  About me: 
+    - Bio: "Bio"
+    - Transparency in my work: "Transparency in my work" 
+  Contact: "Contact"
   Resources:
     - Coding Club: "https://ourcodingclub.github.io/"
     - Data Vis: "https://www.data-to-viz.com/#area"
