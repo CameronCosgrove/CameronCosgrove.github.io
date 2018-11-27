@@ -24,7 +24,9 @@ description: A collection of my work and ideas
 # List of links in the navigation bar
 navbar-links:
   CV:
-    - Download CV: "CV"
+    - Download longform CV: "CV"
+    - Download conservation focused CV: "CV"
+    - Download data science focused CV: "CV"
     - My Publications: "publications"
   Projects:
     - Mollusc of The Glen: "Mollusc of The Glen"
