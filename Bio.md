@@ -17,4 +17,6 @@ Tips and tricks:
 - Be specific with CV. Include the key words mentioned in the job. 
 - Dont assume genders in emails.
 - Change fb name 
+- Show commitment 
+- Ecoevo conference
 
