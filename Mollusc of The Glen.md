@@ -9,3 +9,10 @@ subtitle: Conserving the Fresh Water Pearl Mussel
 https://www.researchgate.net/project/Mollusc-of-the-Glen
 #Who? 
 
+
+Project leadership and managment 
+
+Interpersonal skills 
+
+Writing skills 
+
