@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mollusc of The Glen
-bigimg: "/img/DSCF0274.JPG"
+bigimg: "/img/freshwater-pearl-mussel.jpg"
 subtitle: Conserving the Fresh Water Pearl Mussel 
 ---
 
