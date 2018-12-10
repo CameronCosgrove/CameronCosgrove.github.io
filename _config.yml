@@ -62,7 +62,7 @@ avatar: "/img/prof_square.jpg"
 navbar-col: "#B86558E7"
 navbar-text-col: "#EAE3EA"
 navbar-children-col: "#A9B5A7F1"
-# page-col: "#EAE3EA"
+page-col: "#FCFCFC"
 link-col: "#B4DBC0"
 hover-col: "#A7B3A5"
 footer-col: "#A7B3A5"
@@ -74,7 +74,7 @@ footer-link-col: "#394E6E"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-page-img: "/img/map.png"
+# page-img: "/img/map.png"
 
 # --- Footer options --- #
 
