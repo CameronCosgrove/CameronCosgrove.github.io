@@ -33,14 +33,16 @@ navbar-links:
     - Mollusc of The Glen: "Mollusc of The Glen"
     - Red Panda Forest Loss: "http://wwf.panda.org/knowledge_hub/teacher_resources/best_place_species/current_top_10/red_panda.cfm"
     - Europarc Youth Manifesto: "https://www.europarc.org/nature/young-people/youth/"
+    - Coding: "https://ourcodingclub.github.io/"
     
   About me: 
     - Bio: "Bio"
     - Transparency in my work: "Transparency in my work" 
     - Science communication: "Science communication"
     - Fieldwork Experience: "https://teamshrub.com/2018/01/15/5-more-steps-to-becoming-an-awesome-field-assistant/"
+    - Contact: "Contact"
    
-  Contact: "Contact"
+  
   Resources:
     - Coding Club: "https://ourcodingclub.github.io/"
     - Data Vis: "https://www.data-to-viz.com/#area"
@@ -91,7 +93,6 @@ social-network-links:
   rss: true
   email: "cameron.cosgrove96@gmail.com"
   github: CameronCosgrove
-  researchgate: Cameron_Cosgrove
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
