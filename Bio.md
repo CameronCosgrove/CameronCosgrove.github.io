@@ -20,3 +20,14 @@ Tips and tricks:
 - Show commitment 
 - Ecoevo conference
 
+<p> I have the ability to think in a multidisciplinary way (deep generalist), not just accross the sciences. Policies, proffesional settings, social sciences. Cameron is going to add examples of everything. </p>
+<br>I like making meaningful improvements in natural systems. Resolving conservation conflicts and making landscapes work for people and nature. I am proud to have been involved with a number of projects that have done just that.</br>
+
+<h2>I code and have these useful skills:</h2>
+<img src="/img/Screenshot 2018-12-01 at 13.31.35.png" width=1000 align=right>
+<p>-	data manipulation </p>
+<p>-	data analysis (hierarchical and Bayesian modelling)   </p>
+<p>-	data visualization 
+<p>-	Remote sensing analysis with the Google Earth Engine  </p>
+<p>-	Github competency allowing version control and collaborative coding </p>
+
