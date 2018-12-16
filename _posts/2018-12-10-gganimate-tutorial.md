@@ -1,6 +1,7 @@
 ---
 title: "Animated Graphs"
 author: "Cameron"
+comments: "true"
 ---
 
 # Intro to animated graphs:  gganimate
