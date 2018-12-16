@@ -23,6 +23,15 @@ description: A collection of my work and ideas
 
 # List of links in the navigation bar
 navbar-links:
+
+ Projects:
+    - Mollusc of The Glen: "Mollusc of The Glen"
+    - Red Panda Forest Loss: "http://wwf.panda.org/knowledge_hub/teacher_resources/best_place_species/current_top_10/red_panda.cfm"
+    - Europarc Youth Manifesto: "https://www.europarc.org/nature/young-people/youth/"
+    - Coding: "https://ourcodingclub.github.io/"
+
+  Contact: "Contact"
+
   About:
     - Bio: "Bio"
     - Download CV: "CV"
@@ -31,15 +40,6 @@ navbar-links:
     - Science communication: "Science communication"
     - Fieldwork Experience: "https://teamshrub.com/2018/01/15/5-more-steps-to-becoming-an-awesome-field-assistant/"
     
-  Projects:
-    - Mollusc of The Glen: "Mollusc of The Glen"
-    - Red Panda Forest Loss: "http://wwf.panda.org/knowledge_hub/teacher_resources/best_place_species/current_top_10/red_panda.cfm"
-    - Europarc Youth Manifesto: "https://www.europarc.org/nature/young-people/youth/"
-    - Coding: "https://ourcodingclub.github.io/"
-    
-  Contact: "Contact"
-  
-  
   Resources:
     - Coding Club: "https://ourcodingclub.github.io/"
     - My tutorials: ""
