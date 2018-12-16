@@ -23,11 +23,13 @@ description: A collection of my work and ideas
 
 # List of links in the navigation bar
 navbar-links:
-  CV:
-    - Download longform CV: "CV"
-    - Download conservation focused CV: "CV"
-    - Download data science focused CV: "CV"
+  About:
+    - Bio: "Bio"
+    - Download CV: "CV"
     - My Publications: "publications"
+    - Transparency in my work: "Transparency in my work" 
+    - Science communication: "Science communication"
+    - Fieldwork Experience: "https://teamshrub.com/2018/01/15/5-more-steps-to-becoming-an-awesome-field-assistant/"
     
   Projects:
     - Mollusc of The Glen: "Mollusc of The Glen"
@@ -35,13 +37,9 @@ navbar-links:
     - Europarc Youth Manifesto: "https://www.europarc.org/nature/young-people/youth/"
     - Coding: "https://ourcodingclub.github.io/"
     
-  About me: 
-    - Bio: "Bio"
-    - Transparency in my work: "Transparency in my work" 
-    - Science communication: "Science communication"
-    - Fieldwork Experience: "https://teamshrub.com/2018/01/15/5-more-steps-to-becoming-an-awesome-field-assistant/"
-    - Contact: "Contact"
+  Contact: "Contact"
    
+  Blog: "Blog"
   
   Resources:
     - Coding Club: "https://ourcodingclub.github.io/"
@@ -145,7 +143,7 @@ disqus: "cameron_cosgrove"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 60
+excerpt_length: 70
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
