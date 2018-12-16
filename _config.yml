@@ -39,7 +39,7 @@ navbar-links:
     
   Contact: "Contact"
    
-  Blog: "/blog/index.html"
+  Blog: "https://github.com/CameronCosgrove/blog/index.html"
   
   Resources:
     - Coding Club: "https://ourcodingclub.github.io/"
