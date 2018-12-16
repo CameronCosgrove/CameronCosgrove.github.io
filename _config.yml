@@ -64,7 +64,7 @@ avatar: "/img/prof_square.jpg"
 navbar-col: "#B86558E7"
 navbar-text-col: "#EAE3EA"
 navbar-children-col: "#A9B5A7F1"
-page-col: "#FCFCFC"
+page-col: "#FFFFFF"
 link-col: "#B4DBC0"
 hover-col: "#A7B3A5"
 footer-col: "#A7B3A5"
@@ -138,14 +138,14 @@ share-links-active:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "cameron_cosgrove"
 
 # Facebook App ID
 # fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length: 60
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
