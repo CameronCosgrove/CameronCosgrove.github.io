@@ -2,7 +2,6 @@
 layout: page
 title: Blog 
 use-site-title: true
-comments: true
 ---
 <h2>Blog</h2>
 
@@ -69,5 +68,3 @@ comments: true
     <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
-</ul>
-{% endif %}
