@@ -39,7 +39,7 @@ navbar-links:
     
   Contact: "Contact"
    
-  Blog: "Blog"
+  Blog: "blog.md"
   
   Resources:
     - Coding Club: "https://ourcodingclub.github.io/"
