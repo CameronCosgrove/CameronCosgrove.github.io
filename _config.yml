@@ -60,8 +60,8 @@ avatar: "/img/prof_square.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#B86558E7"
-navbar-text-col: "#EAE3EA"
+navbar-col: "#292929"
+navbar-text-col: "#FFFFFF"
 navbar-children-col: "#A9B5A7F1"
 page-col: "#FFFFFF"
 link-col: "#B4DBC0"
