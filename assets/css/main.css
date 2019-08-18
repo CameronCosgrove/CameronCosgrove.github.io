@@ -2686,11 +2686,11 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(76, 68, 63, 0.15);
+			background-color: rgba(76, 68, 63, 0.3);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(76, 68, 63, 0.225);
+			background-color: rgba(76, 68, 63, 0.5);
 		}
 
 		.spotlight:nth-child(4) {
