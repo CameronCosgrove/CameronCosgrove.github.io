@@ -2682,19 +2682,19 @@ input, select, textarea {
 		}
 
 		.spotlight:nth-child(1) {
-			background-color: rgba(62, 57, 50, 0.075);
+			background-color: rgba(76, 68, 63, 0.075);
 		}
 
 		.spotlight:nth-child(2) {
-			background-color: rgba(62, 57, 50, 0.15);
+			background-color: rgba(76, 68, 63, 0.15);
 		}
 
 		.spotlight:nth-child(3) {
-			background-color: rgba(62, 57, 50, 0.225);
+			background-color: rgba(76, 68, 63, 0.225);
 		}
 
 		.spotlight:nth-child(4) {
-			background-color: rgba(62, 57, 50, 0.3);
+			background-color: rgba(76, 68, 63, 0.3);
 		}
 
 		.spotlight:nth-child(5) {
