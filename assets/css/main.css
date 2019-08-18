@@ -3403,7 +3403,7 @@ input, select, textarea {
 		}
 
 	body.is-menu-visible #page-wrapper {
-		opacity: 0.35;
+		opacity: 0;
 	}
 
 		body.is-menu-visible #page-wrapper:before {
